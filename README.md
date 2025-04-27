@@ -12,23 +12,23 @@ To Do list user friendly Web-application that allows users to add, delete, and m
 
 # How to Run the Application
 
-1.Clone the Repository
-Download or clone the project to your local machine using:
+1.Clone the Repository ->
+Download or clone the project to your local machine using :
 git clone https://github.com/G-Chandu-Balaji/To-do_LIst.git
 
-2.Navigate to the Project Folder
-Move into the project directory:
+2.Navigate to the Project Folder ->
+Move into the project directory :
 cd To-do_List
 
-3.Install Dependencies
-Install all required packages (if it's a Node.js app):
+3.Install Dependencies ->
+Install all required packages (if it's a Node.js app) :
 npm install
 
-4.Start the Development Server
-Run the application locally:
+4.Start the Development Server ->
+Run the application locally :
 npm run dev
 
-5.View in Browser
-Open your browser and go to:
+5.View in Browser ->
+Open your browser and go to :
 http://localhost:3000
 (or whatever port your dev server says)
